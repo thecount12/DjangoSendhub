@@ -4,7 +4,7 @@
 
 http://www.madscott.org/sendhub/
 
-API using python-django 
+API using python-django for flask version of this API visit link at bottom of page 
 
 Goal to Build an HTTP REST API endpoint that routes messages optimizing for the number of 
 network requests. 

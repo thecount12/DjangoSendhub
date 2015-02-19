@@ -1,0 +1,13 @@
+Dependencies
+
+apt-get install python-django 
+apt-get install python-jsonschema
+
+unzip archive
+
+execute: python server.py
+
+test server with following scripts
+
+test.sh
+
